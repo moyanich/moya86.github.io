@@ -27,18 +27,14 @@ print(type(()) is tuple)   # Note: Learn what is a tuple
 print(type({}) is dict)  # Note: Learn what is a dict
 print(type({}) is not list)
 
-<pre>
 
-<class 'bool'>
-<class 'int'>
-<class 'float'>
-<class 'str'>
-True
-False
-True
-True
-True
-
-Process finished with exit code 0
-
-</pre>
+# Output 
+# <class 'bool'>
+# <class 'int'>
+# <class 'float'>
+# <class 'str'>
+# True
+# False
+# True
+# True
+# True
