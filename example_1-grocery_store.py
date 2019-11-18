@@ -35,8 +35,8 @@ sum_total(penne, arrabiata, garlic, seasoning, baguettes, meatballs)
 # 63.09
 
 
-# EXAMPLE 2 - Function using append() to add items to list.
-# Using built in sum() function
+# EXAMPLE 2 - Function using append() and sum() function to add items to list. 
+# Note: append() only takes parameter
 # A subtotal is the sum of all prices before any sales taxes or discounts are added.
 
 grocery_list = []  # empty grocery list
@@ -58,8 +58,7 @@ sum_list(penne, arrabiata, garlic, seasoning, baguettes, meatballs)
 # 63.09
 
 
-# EXAMPLE 3 - Function Using extend() to add items to list.
-# Using built in sum() function
+# EXAMPLE 3 - Function Using extend() and sum() function to to add items to list.
 # A subtotal is the sum of all prices before any sales taxes or discounts are added.
 
 grocery_list_2 = []  # empty grocery list
