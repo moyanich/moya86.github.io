@@ -12,7 +12,6 @@
 
 
 # Variables holding the prices of the six items:
-
 penne = 16.68  # penne 16 oz, pack of 12
 arrabiata = 6.98  # Arrabiata sauce 24oz
 organic_garlic_cloves = 16.78   # 20 pack garlic clove
@@ -23,6 +22,7 @@ meatballs = 4.39   # 12 oz bag of meatballs
 
 # Function sum_total
 # A subtotal is the sum of all prices before any sales taxes or discounts are added.
+
 def sum_total(penne, arrabiata, organic_garlic_cloves, italian_seasoning, artisan_baguettes_twin_pack, meatballs):
     subtotal = penne + arrabiata + organic_garlic_cloves + italian_seasoning + artisan_baguettes_twin_pack + meatballs
     print(round((subtotal), 2))
