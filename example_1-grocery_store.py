@@ -11,6 +11,7 @@
 # Use print() to display the result of the expression.
 
 
+# EXAMPLE 1 - Basic Example
 # Variables holding the prices of the six items:
 
 penne = 16.68  # penne 16 oz, pack of 12
@@ -25,10 +26,55 @@ meatballs = 4.39   # 12 oz bag of meatballs
 # A subtotal is the sum of all prices before any sales taxes or discounts are added.
 def sum_total(penne, arrabiata, garlic, seasoning, baguettes, meatballs):
     subtotal = penne + arrabiata + garlic + seasoning + baguettes + meatballs
-    print(round((subtotal), 2))
+    print(round(subtotal, 2))
     return
 
 sum_total(penne, arrabiata, garlic, seasoning, baguettes, meatballs)
+
+# Output
+# 63.09
+
+
+# EXAMPLE 2 - Function using append() to add items to list.
+# Using built in sum() function
+# A subtotal is the sum of all prices before any sales taxes or discounts are added.
+
+grocery_list = []  # empty grocery list
+
+def sum_list(penne, arrabiata, garlic, seasoning, baguettes, meatballs):
+    grocery_list.append(penne)
+    grocery_list.append(arrabiata)
+    grocery_list.append(garlic)
+    grocery_list.append(seasoning)
+    grocery_list.append(baguettes)
+    grocery_list.append(meatballs)
+    sub_total = sum(grocery_list)
+    print(round(sub_total, 2))
+    return
+
+sum_list(penne, arrabiata, garlic, seasoning, baguettes, meatballs)
+
+# Output
+# 63.09
+
+
+# EXAMPLE 3 - Function Using extend() to add items to list.
+# Using built in sum() function
+# A subtotal is the sum of all prices before any sales taxes or discounts are added.
+
+grocery_list_2 = []  # empty grocery list
+
+def sum_list2(penne, arrabiata, garlic, seasoning, baguettes, meatballs):
+
+    new_list = [penne, arrabiata, garlic, seasoning, baguettes, meatballs];
+    grocery_list_2.extend(new_list) # add items to grocery list
+    print(grocery_list_2)
+    sub_total = sum(grocery_list_2)
+    print(sub_total)
+    print(round(sub_total, 2))
+    return
+
+sum_list2(penne, arrabiata, garlic, seasoning, baguettes, meatballs)
 
 # Output
 # 63.09
