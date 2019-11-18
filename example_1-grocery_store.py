@@ -67,9 +67,7 @@ def sum_list2(penne, arrabiata, garlic, seasoning, baguettes, meatballs):
 
     new_list = [penne, arrabiata, garlic, seasoning, baguettes, meatballs];
     grocery_list_2.extend(new_list) # add items to grocery list
-    print(grocery_list_2)
     sub_total = sum(grocery_list_2)
-    print(sub_total)
     print(round(sub_total, 2))
     return
 
