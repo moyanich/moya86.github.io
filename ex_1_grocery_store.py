@@ -1,6 +1,8 @@
 # This example uses the following python functions
 # lists
 # round
+# float
+# int
 # extend
 # append
 
@@ -81,3 +83,16 @@ sum_list2(penne, arrabiata, garlic, seasoning, baguettes, meatballs)
 
 # Output
 # 63.09
+
+
+# Refactored code
+
+def grocery_total(items):
+    subtotal = sum(items)
+    print("Total Cost is", round(subtotal, 2))
+    return
+items = [penne, arrabiata, garlic, seasoning, baguettes, meatballs]
+grocery_total(items)
+
+# Output
+# Total Cost is 63.09
