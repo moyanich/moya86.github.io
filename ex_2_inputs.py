@@ -15,13 +15,11 @@ print("Calculate Volume of a sphere")
 sphere_radius = input("Enter radius \n")  # Note inputs are now in the form of a string
 sphere_radius = int(sphere_radius)  # Convert it to integer before multiplying
 sphere_radius = (4 * (math.pi * (math.pow(sphere_radius, 2))))
-print("The Volume of the sphere is: ")
-print(round(sphere_radius, 2))
+print("The Volume of the sphere is: ", round(sphere_radius, 2))
 print("\n")
 
 print("Calculate Area of a sphere")
 sphere_area = input("Enter radius \n")  # Note inputs are now in the form of a string
 sphere_area = int(sphere_area)  # Convert it integer before multiplying (4 / 3 * (math.pi * (math.pow(sphere_area, 3))))
 sphere_area = (4 / 3 * (math.pi * (math.pow(sphere_area, 3))))
-print("The Area of the sphere is: ")
-print(round(sphere_area, 2))
+print("The Area of the sphere is: ", round(sphere_area, 2))
