@@ -1,5 +1,9 @@
 import math
+
+# This example uses the following python functions
 # input() function
+# integers int()
+# math
 
 # Read the radius from a user.
 # Write a formula for surface area and volume of a sphere.
@@ -9,7 +13,7 @@ import math
 
 print("Calculate Volume of a sphere")
 sphere_radius = input("Enter radius \n")  # Note inputs are now in the form of a string
-sphere_radius = int(sphere_radius)  # Convert it integer before multiplying
+sphere_radius = int(sphere_radius)  # Convert it to integer before multiplying
 sphere_radius = (4 * (math.pi * (math.pow(sphere_radius, 2))))
 print("The Volume of the sphere is: ")
 print(round(sphere_radius, 2))

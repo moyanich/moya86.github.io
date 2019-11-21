@@ -1,3 +1,9 @@
+# This example uses the following python functions
+# lists
+# round
+# extend
+# append
+
 # Programming Challenge: Grocery Store Purchase
 # A customer of a grocery store is purchasing 6 items. The names and prices of the items are as follows:
 # Penne 16 oz Pack of 12 - $16.68
@@ -41,7 +47,7 @@ sum_total(penne, arrabiata, garlic, seasoning, baguettes, meatballs)
 
 grocery_list = []  # empty grocery list
 
-def sum_list(penne, arrabiata, garlic, seasoning, baguettes, meatballs):
+def sum_list(penne,arrabiata,garlic,seasoning,baguettes,meatballs):
     grocery_list.append(penne)
     grocery_list.append(arrabiata)
     grocery_list.append(garlic)
@@ -52,7 +58,7 @@ def sum_list(penne, arrabiata, garlic, seasoning, baguettes, meatballs):
     print(round(sub_total, 2))
     return
 
-sum_list(penne, arrabiata, garlic, seasoning, baguettes, meatballs)
+sum_list(penne,arrabiata,garlic,seasoning,baguettes,meatballs)
 
 # Output
 # 63.09
