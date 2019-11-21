@@ -29,13 +29,13 @@ seasoning = 15.26   # Italian Seasoning
 baguettes = 3.00   # Baguette twin pack
 meatballs = 4.39   # 12 oz bag of meatballs
 
-
 # Function sum_total
 # A subtotal is the sum of all prices before any sales taxes or discounts are added.
 def sum_total(penne, arrabiata, garlic, seasoning, baguettes, meatballs):
     subtotal = penne + arrabiata + garlic + seasoning + baguettes + meatballs
     print(round(subtotal, 2))
     return
+
 
 sum_total(penne, arrabiata, garlic, seasoning, baguettes, meatballs)
 
@@ -60,6 +60,7 @@ def sum_list(penne,arrabiata,garlic,seasoning,baguettes,meatballs):
     print(round(sub_total, 2))
     return
 
+
 sum_list(penne,arrabiata,garlic,seasoning,baguettes,meatballs)
 
 # Output
@@ -79,6 +80,7 @@ def sum_list2(penne, arrabiata, garlic, seasoning, baguettes, meatballs):
     print(round(sub_total, 2))
     return
 
+
 sum_list2(penne, arrabiata, garlic, seasoning, baguettes, meatballs)
 
 # Output
@@ -91,6 +93,8 @@ def grocery_total(items):
     subtotal = sum(items)
     print("Total Cost is", round(subtotal, 2))
     return
+
+
 items = [penne, arrabiata, garlic, seasoning, baguettes, meatballs]
 grocery_total(items)
 
