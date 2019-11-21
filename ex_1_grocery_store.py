@@ -22,12 +22,14 @@
 # EXAMPLE 1 - Basic Example
 # Variables holding the prices of the six items:
 
+
 penne = 16.68  # penne 16 oz, pack of 12
 arrabiata = 6.98  # Arrabiata sauce 24oz
-garlic = 16.78   # 20 pack garlic clove
-seasoning = 15.26   # Italian Seasoning
-baguettes = 3.00   # Baguette twin pack
-meatballs = 4.39   # 12 oz bag of meatballs
+garlic = 16.78  # 20 pack garlic clove
+seasoning = 15.26  # Italian Seasoning
+baguettes = 3.00  # Baguette twin pack
+meatballs = 4.39  # 12 oz bag of meatballs
+
 
 # Function sum_total
 # A subtotal is the sum of all prices before any sales taxes or discounts are added.
@@ -46,10 +48,10 @@ sum_total(penne, arrabiata, garlic, seasoning, baguettes, meatballs)
 # EXAMPLE 2 - Function using append() and sum() function to add items to list. 
 # Note: append() only takes parameter
 # A subtotal is the sum of all prices before any sales taxes or discounts are added.
-
 grocery_list = []  # empty grocery list
 
-def sum_list(penne,arrabiata,garlic,seasoning,baguettes,meatballs):
+
+def sum_list(penne, arrabiata, garlic, seasoning, baguettes, meatballs):
     grocery_list.append(penne)
     grocery_list.append(arrabiata)
     grocery_list.append(garlic)
@@ -61,7 +63,7 @@ def sum_list(penne,arrabiata,garlic,seasoning,baguettes,meatballs):
     return
 
 
-sum_list(penne,arrabiata,garlic,seasoning,baguettes,meatballs)
+sum_list(penne, arrabiata, garlic, seasoning, baguettes, meatballs)
 
 # Output
 # 63.09
@@ -69,11 +71,10 @@ sum_list(penne,arrabiata,garlic,seasoning,baguettes,meatballs)
 
 # EXAMPLE 3 - Function Using extend() and sum() function to to add items to list.
 # A subtotal is the sum of all prices before any sales taxes or discounts are added.
-
 grocery_list_2 = []  # empty grocery list
 
-def sum_list2(penne, arrabiata, garlic, seasoning, baguettes, meatballs):
 
+def sum_list2(penne, arrabiata, garlic, seasoning, baguettes, meatballs):
     new_list = [penne, arrabiata, garlic, seasoning, baguettes, meatballs];
     grocery_list_2.extend(new_list)  # add items to grocery list
     sub_total = sum(grocery_list_2)
@@ -82,6 +83,7 @@ def sum_list2(penne, arrabiata, garlic, seasoning, baguettes, meatballs):
 
 
 sum_list2(penne, arrabiata, garlic, seasoning, baguettes, meatballs)
+
 
 # Output
 # 63.09
