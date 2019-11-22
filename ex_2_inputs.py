@@ -1,15 +1,15 @@
 import math
 
-# This example uses the following python functions
-# input() function
-# integers int()
-# math
-
 # Read the radius from a user.
 # Write a formula for surface area and volume of a sphere.
 # Formula for Radius of a sphere Area (4πr2)
 # Formula for Volume of a sphere Area V= 4/3(πr3)
 # Print values using a print statement.
+# This example uses the following python functions
+# input() function
+# integers int()
+# math
+
 
 print("Calculate Volume of a sphere")
 sphere_radius = input("Enter radius \n")  # Note inputs are now in the form of a string
