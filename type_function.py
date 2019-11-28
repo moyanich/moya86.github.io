@@ -5,6 +5,7 @@
 # Two different types of arguments can be passed to type() function, single and three argument.
 # If single argument type(obj) is passed, it returns the type of given object.
 # If three arguments type(name, bases, dict) is passed, it returns a new type object.
+
 # E.G.
 # type(object)
 # type(name, bases, dict)
