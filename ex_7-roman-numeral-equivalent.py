@@ -8,6 +8,12 @@
 # For example, if the randomly generated integer was 9, then the program would say that the
 # roman numeral equivalent of 9 is IX in the output.
 
+# This example uses the following python functions
+#  random library
+# for loop
+#  Dictionary - A dictionary is a collection which is unordered, changeable and indexed.
+#       In Python dictionaries are written with curly brackets, and they have keys and values.
+
 import random
 
 # generates random integer between and inclusive of 1 and 10
