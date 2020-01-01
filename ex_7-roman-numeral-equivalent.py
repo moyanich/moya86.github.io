@@ -25,7 +25,7 @@ roman_numerals = {"i": 1, "ii": 2, "iii": 3, "iv":  4, "v": 5, "vi": 6, "vii": 7
 
 for numerals, num in roman_numerals.items():   # numerals - key, num - value
     if num == random_number:
-        print(numerals)
+        print("The roman numeral equivalent of " + str(random_number) + " is " + numerals + ".")
 
 
 
