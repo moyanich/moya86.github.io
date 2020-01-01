@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ee52382-b520-46aa-ad03-18724e4258f9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ex_7-roman-numeral-equivalent.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex_7-roman-numeral-equivalent.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex_7-roman-numeral-equivalent.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
