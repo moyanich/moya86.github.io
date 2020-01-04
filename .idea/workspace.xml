@@ -38,7 +38,7 @@
       <recent name="C:\Users\User1\Documents\GitHub\python_journal" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.loops">
+  <component name="RunManager" selected="Python.for_loop">
     <configuration name="ex_5-grade-determiner" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_journal" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -102,7 +102,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="loops" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="for_loop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_journal" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -114,7 +114,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/loops.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\User1\Documents\GitHub\python_journal\for_loop.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,7 +146,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.loops" />
+        <item itemvalue="Python.for_loop" />
         <item itemvalue="Python.ex_7-roman-numeral-equivalent" />
         <item itemvalue="Python.ex_6-monty-python" />
         <item itemvalue="Python.ex_5-grade-determiner" />
