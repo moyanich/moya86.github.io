@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ee52382-b520-46aa-ad03-18724e4258f9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/ex_7-roman-numeral-equivalent.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex_7-roman-numeral-equivalent.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/loops.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,28 +38,7 @@
       <recent name="C:\Users\User1\Documents\GitHub\python_journal" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex_7-roman-numeral-equivalent">
-    <configuration name="ex_1-grocery-store" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python_journal" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex_1-grocery-store.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.loops">
     <configuration name="ex_5-grade-determiner" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_journal" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -122,6 +102,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="loops" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_journal" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/loops.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="string1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_journal" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -145,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.loops" />
         <item itemvalue="Python.ex_7-roman-numeral-equivalent" />
         <item itemvalue="Python.ex_6-monty-python" />
         <item itemvalue="Python.ex_5-grade-determiner" />
         <item itemvalue="Python.string1" />
-        <item itemvalue="Python.ex_1-grocery-store" />
       </list>
     </recent_temporary>
   </component>
@@ -192,26 +193,26 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1892" height="263" key="GridCell.Tab.0.bottom" timestamp="1577899936129">
+    <state width="1892" height="263" key="GridCell.Tab.0.bottom" timestamp="1578154760039">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1892" height="263" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1577899936129" />
-    <state width="1892" height="263" key="GridCell.Tab.0.center" timestamp="1577899936129">
+    <state width="1892" height="263" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1578154760039" />
+    <state width="1892" height="263" key="GridCell.Tab.0.center" timestamp="1578154760039">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1892" height="263" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1577899936129" />
-    <state width="1892" height="263" key="GridCell.Tab.0.left" timestamp="1577899936128">
+    <state width="1892" height="263" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1578154760039" />
+    <state width="1892" height="263" key="GridCell.Tab.0.left" timestamp="1578154760039">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1892" height="263" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1577899936128" />
-    <state width="1892" height="263" key="GridCell.Tab.0.right" timestamp="1577899936129">
+    <state width="1892" height="263" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1578154760039" />
+    <state width="1892" height="263" key="GridCell.Tab.0.right" timestamp="1578154760039">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1892" height="263" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1577899936129" />
-    <state x="579" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1577894207548">
+    <state width="1892" height="263" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1578154760039" />
+    <state x="579" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1578153957203">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="579" y="294" key="com.intellij.ide.util.TipDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1577894207548" />
+    <state x="579" y="294" key="com.intellij.ide.util.TipDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1578153957203" />
     <state x="676" y="408" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1577383254127">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
