@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ee52382-b520-46aa-ad03-18724e4258f9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/while_loop.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/loops.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/for_loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/for_loop.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,7 +124,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="string1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="while_loop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_journal" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -131,11 +132,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/AppData/Local/Temp/Temp1_google-python-exercises.zip/google-python-exercises/basic" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/AppData/Local/Temp/Temp1_google-python-exercises.zip/google-python-exercises/basic/string1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/while_loop.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,10 +148,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.for_loop" />
+        <item itemvalue="Python.while_loop" />
         <item itemvalue="Python.ex_7-roman-numeral-equivalent" />
         <item itemvalue="Python.ex_6-monty-python" />
         <item itemvalue="Python.ex_5-grade-determiner" />
-        <item itemvalue="Python.string1" />
       </list>
     </recent_temporary>
   </component>
@@ -193,29 +194,59 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1892" height="263" key="GridCell.Tab.0.bottom" timestamp="1578154760039">
+    <state width="1892" height="320" key="GridCell.Tab.0.bottom" timestamp="1578190338804">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1892" height="263" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1578154760039" />
-    <state width="1892" height="263" key="GridCell.Tab.0.center" timestamp="1578154760039">
+    <state width="1892" height="320" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1578190338804" />
+    <state width="1892" height="320" key="GridCell.Tab.0.center" timestamp="1578190338803">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1892" height="263" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1578154760039" />
-    <state width="1892" height="263" key="GridCell.Tab.0.left" timestamp="1578154760039">
+    <state width="1892" height="320" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1578190338803" />
+    <state width="1892" height="320" key="GridCell.Tab.0.left" timestamp="1578190338803">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1892" height="263" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1578154760039" />
-    <state width="1892" height="263" key="GridCell.Tab.0.right" timestamp="1578154760039">
+    <state width="1892" height="320" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1578190338803" />
+    <state width="1892" height="320" key="GridCell.Tab.0.right" timestamp="1578190338803">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1892" height="263" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1578154760039" />
-    <state x="579" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1578153957203">
+    <state width="1892" height="320" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1578190338803" />
+    <state width="1892" height="320" key="GridCell.Tab.1.bottom" timestamp="1578190338804">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="579" y="294" key="com.intellij.ide.util.TipDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1578153957203" />
+    <state width="1892" height="320" key="GridCell.Tab.1.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1578190338804" />
+    <state width="1892" height="320" key="GridCell.Tab.1.center" timestamp="1578190338804">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1892" height="320" key="GridCell.Tab.1.center/0.0.1920.1032@0.0.1920.1032" timestamp="1578190338804" />
+    <state width="1892" height="320" key="GridCell.Tab.1.left" timestamp="1578190338804">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1892" height="320" key="GridCell.Tab.1.left/0.0.1920.1032@0.0.1920.1032" timestamp="1578190338804" />
+    <state width="1892" height="320" key="GridCell.Tab.1.right" timestamp="1578190338804">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1892" height="320" key="GridCell.Tab.1.right/0.0.1920.1032@0.0.1920.1032" timestamp="1578190338804" />
+    <state x="579" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1578778028558">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="579" y="294" key="com.intellij.ide.util.TipDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1578778028558" />
+    <state x="425" y="185" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1578157568753">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="425" y="185" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1032@0.0.1920.1032" timestamp="1578157568753" />
     <state x="676" y="408" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1577383254127">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="676" y="408" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1577383254127" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/for_loop.py</url>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

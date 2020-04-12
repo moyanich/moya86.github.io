@@ -12,4 +12,5 @@ n = int(input())
 i = 0
 
 for i in range(n):
-    print(pow(i, 2))
+    print(i)
+   # print(pow(i, 2))
