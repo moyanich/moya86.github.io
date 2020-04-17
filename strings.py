@@ -39,7 +39,7 @@ print(example[:4])
 print(example[5:7] + " " + example[8:])
 print("Don't" + " " + example[5:7] + " " + example[8:])
 
-# Refactored
+# Refactored Code
 
 sentence = "Just do it!"
 
@@ -56,3 +56,8 @@ sentence_slided_4 = sentence[:4]
 print(sentence_slided_4)
 
 print("Don't" + " " + sentence_slided_2 + " " + sentence_slided_3)
+
+# STRING METHODS
+# isupper() and islower()
+
+
