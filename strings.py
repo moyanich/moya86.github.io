@@ -58,6 +58,8 @@ print(sentence_slided_4)
 print("Don't" + " " + sentence_slided_2 + " " + sentence_slided_3)
 
 # STRING METHODS
+# upper() and lower()
 # isupper() and islower()
-
-
+all_lower_case = "no uppercase here"
+print(all_lower_case.upper())
+print(all_lower_case.lower())

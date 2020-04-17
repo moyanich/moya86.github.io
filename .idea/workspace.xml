@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ee52382-b520-46aa-ad03-18724e4258f9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ex_9-factorial.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/strings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +38,7 @@
       <recent name="C:\Users\User1\Documents\GitHub\python_journal" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex_9-factorial">
+  <component name="RunManager" selected="Python.strings">
     <configuration name="ex_5-grade-determiner" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_journal" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -123,19 +123,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="while_loop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="strings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_journal" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="C:\Users\User1\AppData\Local\Programs\Python\Python38-32\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/while_loop.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/strings.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.strings" />
         <item itemvalue="Python.ex_9-factorial" />
         <item itemvalue="Python.ex_8-fizz-buzz" />
         <item itemvalue="Python.ex_5-grade-determiner" />
         <item itemvalue="Python.for_loop" />
-        <item itemvalue="Python.while_loop" />
       </list>
     </recent_temporary>
   </component>
@@ -177,6 +177,14 @@
       <option name="presentableId" value="Default" />
       <updated>1577381694588</updated>
     </task>
+    <task id="LOCAL-00001" summary="Code Update">
+      <created>1587142182842</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587142182842</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -192,11 +200,19 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Code Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Code Update" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="622" y="39" key="#ex_9-factorial" timestamp="1587140502503">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="622" y="39" key="#ex_9-factorial/0.0.1920.1032/1920.0.1366.720@0.0.1920.1032" timestamp="1587140502503" />
+    <state x="622" y="39" key="#strings" timestamp="1587142083099">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="622" y="39" key="#strings/0.0.1920.1032/1920.0.1366.720@0.0.1920.1032" timestamp="1587142083099" />
     <state x="871" y="206" key="#xdebugger.XInspectDialog" timestamp="1587141498418">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
@@ -205,30 +221,30 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="654" y="143" key="#xdebugger.evaluate/0.0.1920.1032/1920.0.1366.720@0.0.1920.1032" timestamp="1587141684050" />
-    <state x="523" y="35" key="CommitChangelistDialog2" timestamp="1587133660580">
+    <state x="523" y="35" key="CommitChangelistDialog2" timestamp="1587142181488">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="523" y="35" key="CommitChangelistDialog2/0.0.1920.1032/1920.0.1366.720@0.0.1920.1032" timestamp="1587133660580" />
+    <state x="523" y="35" key="CommitChangelistDialog2/0.0.1920.1032/1920.0.1366.720@0.0.1920.1032" timestamp="1587142181488" />
     <state x="91" y="91" width="1738" height="850" key="DiffContextDialog" timestamp="1587141612739">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="91" y="91" width="1738" height="850" key="DiffContextDialog/0.0.1920.1032/1920.0.1366.720@0.0.1920.1032" timestamp="1587141612739" />
-    <state width="1892" height="320" key="GridCell.Tab.0.bottom" timestamp="1587141867642">
+    <state width="1892" height="263" key="GridCell.Tab.0.bottom" timestamp="1587142376240">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1892" height="320" key="GridCell.Tab.0.bottom/0.0.1920.1032/1920.0.1366.720@0.0.1920.1032" timestamp="1587141867642" />
-    <state width="1892" height="320" key="GridCell.Tab.0.center" timestamp="1587141867642">
+    <state width="1892" height="263" key="GridCell.Tab.0.bottom/0.0.1920.1032/1920.0.1366.720@0.0.1920.1032" timestamp="1587142376240" />
+    <state width="1892" height="263" key="GridCell.Tab.0.center" timestamp="1587142376240">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1892" height="320" key="GridCell.Tab.0.center/0.0.1920.1032/1920.0.1366.720@0.0.1920.1032" timestamp="1587141867642" />
-    <state width="1892" height="320" key="GridCell.Tab.0.left" timestamp="1587141867642">
+    <state width="1892" height="263" key="GridCell.Tab.0.center/0.0.1920.1032/1920.0.1366.720@0.0.1920.1032" timestamp="1587142376240" />
+    <state width="1892" height="263" key="GridCell.Tab.0.left" timestamp="1587142376240">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1892" height="320" key="GridCell.Tab.0.left/0.0.1920.1032/1920.0.1366.720@0.0.1920.1032" timestamp="1587141867642" />
-    <state width="1892" height="320" key="GridCell.Tab.0.right" timestamp="1587141867642">
+    <state width="1892" height="263" key="GridCell.Tab.0.left/0.0.1920.1032/1920.0.1366.720@0.0.1920.1032" timestamp="1587142376240" />
+    <state width="1892" height="263" key="GridCell.Tab.0.right" timestamp="1587142376240">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1892" height="320" key="GridCell.Tab.0.right/0.0.1920.1032/1920.0.1366.720@0.0.1920.1032" timestamp="1587141867642" />
+    <state width="1892" height="263" key="GridCell.Tab.0.right/0.0.1920.1032/1920.0.1366.720@0.0.1920.1032" timestamp="1587142376240" />
     <state width="1892" height="320" key="GridCell.Tab.1.bottom" timestamp="1587141867642">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
