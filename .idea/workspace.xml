@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ee52382-b520-46aa-ad03-18724e4258f9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ex_8-fizz-buzz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_9-factorial.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +38,7 @@
       <recent name="C:\Users\User1\Documents\GitHub\python_journal" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex_8-fizz-buzz">
+  <component name="RunManager" selected="Python.ex_9-factorial">
     <configuration name="ex_5-grade-determiner" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_journal" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -60,27 +60,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex_7-roman-numeral-equivalent" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python_journal" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex_7-roman-numeral-equivalent.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="ex_8-fizz-buzz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_journal" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -94,6 +73,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex_8-fizz-buzz.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex_9-factorial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_journal" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\User1\Documents\Python_Projects\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex_9-factorial.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ex_9-factorial" />
         <item itemvalue="Python.ex_8-fizz-buzz" />
         <item itemvalue="Python.ex_5-grade-determiner" />
         <item itemvalue="Python.for_loop" />
         <item itemvalue="Python.while_loop" />
-        <item itemvalue="Python.ex_7-roman-numeral-equivalent" />
       </list>
     </recent_temporary>
   </component>
@@ -193,31 +193,67 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
+    <state x="622" y="39" key="#ex_9-factorial" timestamp="1587140502503">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="622" y="39" key="#ex_9-factorial/0.0.1920.1032/1920.0.1366.720@0.0.1920.1032" timestamp="1587140502503" />
+    <state x="871" y="206" key="#xdebugger.XInspectDialog" timestamp="1587141498418">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="871" y="206" key="#xdebugger.XInspectDialog/0.0.1920.1032/1920.0.1366.720@0.0.1920.1032" timestamp="1587141498418" />
+    <state x="654" y="143" key="#xdebugger.evaluate" timestamp="1587141684050">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="654" y="143" key="#xdebugger.evaluate/0.0.1920.1032/1920.0.1366.720@0.0.1920.1032" timestamp="1587141684050" />
     <state x="523" y="35" key="CommitChangelistDialog2" timestamp="1587133660580">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="523" y="35" key="CommitChangelistDialog2/0.0.1920.1032/1920.0.1366.720@0.0.1920.1032" timestamp="1587133660580" />
-    <state width="1892" height="263" key="GridCell.Tab.0.bottom" timestamp="1587136037287">
+    <state x="91" y="91" width="1738" height="850" key="DiffContextDialog" timestamp="1587141612739">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1892" height="263" key="GridCell.Tab.0.bottom/0.0.1920.1032/1920.0.1366.720@0.0.1920.1032" timestamp="1587136037287" />
-    <state width="1892" height="263" key="GridCell.Tab.0.center" timestamp="1587136037287">
+    <state x="91" y="91" width="1738" height="850" key="DiffContextDialog/0.0.1920.1032/1920.0.1366.720@0.0.1920.1032" timestamp="1587141612739" />
+    <state width="1892" height="320" key="GridCell.Tab.0.bottom" timestamp="1587141867642">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1892" height="263" key="GridCell.Tab.0.center/0.0.1920.1032/1920.0.1366.720@0.0.1920.1032" timestamp="1587136037287" />
-    <state width="1892" height="263" key="GridCell.Tab.0.left" timestamp="1587136037287">
+    <state width="1892" height="320" key="GridCell.Tab.0.bottom/0.0.1920.1032/1920.0.1366.720@0.0.1920.1032" timestamp="1587141867642" />
+    <state width="1892" height="320" key="GridCell.Tab.0.center" timestamp="1587141867642">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1892" height="263" key="GridCell.Tab.0.left/0.0.1920.1032/1920.0.1366.720@0.0.1920.1032" timestamp="1587136037287" />
-    <state width="1892" height="263" key="GridCell.Tab.0.right" timestamp="1587136037287">
+    <state width="1892" height="320" key="GridCell.Tab.0.center/0.0.1920.1032/1920.0.1366.720@0.0.1920.1032" timestamp="1587141867642" />
+    <state width="1892" height="320" key="GridCell.Tab.0.left" timestamp="1587141867642">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1892" height="263" key="GridCell.Tab.0.right/0.0.1920.1032/1920.0.1366.720@0.0.1920.1032" timestamp="1587136037287" />
+    <state width="1892" height="320" key="GridCell.Tab.0.left/0.0.1920.1032/1920.0.1366.720@0.0.1920.1032" timestamp="1587141867642" />
+    <state width="1892" height="320" key="GridCell.Tab.0.right" timestamp="1587141867642">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1892" height="320" key="GridCell.Tab.0.right/0.0.1920.1032/1920.0.1366.720@0.0.1920.1032" timestamp="1587141867642" />
+    <state width="1892" height="320" key="GridCell.Tab.1.bottom" timestamp="1587141867642">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1892" height="320" key="GridCell.Tab.1.bottom/0.0.1920.1032/1920.0.1366.720@0.0.1920.1032" timestamp="1587141867642" />
+    <state width="1892" height="320" key="GridCell.Tab.1.center" timestamp="1587141867642">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1892" height="320" key="GridCell.Tab.1.center/0.0.1920.1032/1920.0.1366.720@0.0.1920.1032" timestamp="1587141867642" />
+    <state width="1892" height="320" key="GridCell.Tab.1.left" timestamp="1587141867642">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1892" height="320" key="GridCell.Tab.1.left/0.0.1920.1032/1920.0.1366.720@0.0.1920.1032" timestamp="1587141867642" />
+    <state width="1892" height="320" key="GridCell.Tab.1.right" timestamp="1587141867642">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1892" height="320" key="GridCell.Tab.1.right/0.0.1920.1032/1920.0.1366.720@0.0.1920.1032" timestamp="1587141867642" />
     <state x="579" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1587133452409">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="579" y="294" key="com.intellij.ide.util.TipDialog/0.0.1920.1032/1920.0.1366.720@0.0.1920.1032" timestamp="1587133452409" />
     <state x="579" y="294" key="com.intellij.ide.util.TipDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1578778028558" />
+    <state x="425" y="185" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1587140938867">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="425" y="185" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1032/1920.0.1366.720@0.0.1920.1032" timestamp="1587140938867" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -226,7 +262,32 @@
           <url>file://$PROJECT_DIR$/for_loop.py</url>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ex_9-factorial.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ex_9-factorial.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ex_9-factorial.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ex_9-factorial.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="num=3" language="Python" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
