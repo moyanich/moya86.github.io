@@ -194,50 +194,11 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1892" height="320" key="GridCell.Tab.0.bottom" timestamp="1578190338804">
+    <state x="579" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1587133452409">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1892" height="320" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1578190338804" />
-    <state width="1892" height="320" key="GridCell.Tab.0.center" timestamp="1578190338803">
-      <screen x="0" y="0" width="1920" height="1032" />
-    </state>
-    <state width="1892" height="320" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1578190338803" />
-    <state width="1892" height="320" key="GridCell.Tab.0.left" timestamp="1578190338803">
-      <screen x="0" y="0" width="1920" height="1032" />
-    </state>
-    <state width="1892" height="320" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1578190338803" />
-    <state width="1892" height="320" key="GridCell.Tab.0.right" timestamp="1578190338803">
-      <screen x="0" y="0" width="1920" height="1032" />
-    </state>
-    <state width="1892" height="320" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1578190338803" />
-    <state width="1892" height="320" key="GridCell.Tab.1.bottom" timestamp="1578190338804">
-      <screen x="0" y="0" width="1920" height="1032" />
-    </state>
-    <state width="1892" height="320" key="GridCell.Tab.1.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1578190338804" />
-    <state width="1892" height="320" key="GridCell.Tab.1.center" timestamp="1578190338804">
-      <screen x="0" y="0" width="1920" height="1032" />
-    </state>
-    <state width="1892" height="320" key="GridCell.Tab.1.center/0.0.1920.1032@0.0.1920.1032" timestamp="1578190338804" />
-    <state width="1892" height="320" key="GridCell.Tab.1.left" timestamp="1578190338804">
-      <screen x="0" y="0" width="1920" height="1032" />
-    </state>
-    <state width="1892" height="320" key="GridCell.Tab.1.left/0.0.1920.1032@0.0.1920.1032" timestamp="1578190338804" />
-    <state width="1892" height="320" key="GridCell.Tab.1.right" timestamp="1578190338804">
-      <screen x="0" y="0" width="1920" height="1032" />
-    </state>
-    <state width="1892" height="320" key="GridCell.Tab.1.right/0.0.1920.1032@0.0.1920.1032" timestamp="1578190338804" />
-    <state x="579" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1578778028558">
-      <screen x="0" y="0" width="1920" height="1032" />
-    </state>
+    <state x="579" y="294" key="com.intellij.ide.util.TipDialog/0.0.1920.1032/1920.0.1366.720@0.0.1920.1032" timestamp="1587133452409" />
     <state x="579" y="294" key="com.intellij.ide.util.TipDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1578778028558" />
-    <state x="425" y="185" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1578157568753">
-      <screen x="0" y="0" width="1920" height="1032" />
-    </state>
-    <state x="425" y="185" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1032@0.0.1920.1032" timestamp="1578157568753" />
-    <state x="676" y="408" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1577383254127">
-      <screen x="0" y="0" width="1920" height="1032" />
-    </state>
-    <state x="676" y="408" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1577383254127" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
