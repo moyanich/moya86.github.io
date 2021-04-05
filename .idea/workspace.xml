@@ -2,19 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ee52382-b520-46aa-ad03-18724e4258f9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ex_10-string-methods-1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_11-string-methods-2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/islower.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/isupper.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python_journal.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python_journal.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_13-word-counter.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex_9-factorial.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex_9-factorial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex_12-string-reverser.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex_12-string-reverser.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="python_journal" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -45,7 +43,7 @@
       <recent name="C:\Users\User1\Documents\GitHub\python_journal" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex_11-string-methods-2">
+  <component name="RunManager" selected="Python.ex_12-string-reverser">
     <configuration name="ex_10-string-methods-1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_journal" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -80,6 +78,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex_11-string-methods-2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex_12-string-reverser" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_journal" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex_12-string-reverser.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -130,34 +149,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="strings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python_journal" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\User1\AppData\Local\Programs\Python\Python38-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/strings.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ex_12-string-reverser" />
         <item itemvalue="Python.ex_11-string-methods-2" />
         <item itemvalue="Python.ex_10-string-methods-1" />
         <item itemvalue="Python.isupper" />
         <item itemvalue="Python.islower" />
-        <item itemvalue="Python.strings" />
       </list>
     </recent_temporary>
   </component>
@@ -244,26 +242,26 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="91" y="91" width="1738" height="850" key="DiffContextDialog/0.0.1920.1032/1920.0.1366.720@0.0.1920.1032" timestamp="1587141612739" />
-    <state width="1338" height="158" key="GridCell.Tab.0.bottom" timestamp="1587483405731">
+    <state width="1338" height="158" key="GridCell.Tab.0.bottom" timestamp="1587495614419">
       <screen x="1920" y="0" width="1366" height="720" />
     </state>
     <state width="1892" height="320" key="GridCell.Tab.0.bottom/0.0.1920.1032/1920.0.1366.720@0.0.1920.1032" timestamp="1587150694418" />
-    <state width="1338" height="158" key="GridCell.Tab.0.bottom/0.0.1920.1032/1920.0.1366.720@1920.0.1366.720" timestamp="1587483405731" />
-    <state width="1338" height="158" key="GridCell.Tab.0.center" timestamp="1587483405731">
+    <state width="1338" height="158" key="GridCell.Tab.0.bottom/0.0.1920.1032/1920.0.1366.720@1920.0.1366.720" timestamp="1587495614419" />
+    <state width="1338" height="158" key="GridCell.Tab.0.center" timestamp="1587495614419">
       <screen x="1920" y="0" width="1366" height="720" />
     </state>
     <state width="1892" height="320" key="GridCell.Tab.0.center/0.0.1920.1032/1920.0.1366.720@0.0.1920.1032" timestamp="1587150694417" />
-    <state width="1338" height="158" key="GridCell.Tab.0.center/0.0.1920.1032/1920.0.1366.720@1920.0.1366.720" timestamp="1587483405731" />
-    <state width="1338" height="158" key="GridCell.Tab.0.left" timestamp="1587483405730">
+    <state width="1338" height="158" key="GridCell.Tab.0.center/0.0.1920.1032/1920.0.1366.720@1920.0.1366.720" timestamp="1587495614419" />
+    <state width="1338" height="158" key="GridCell.Tab.0.left" timestamp="1587495614418">
       <screen x="1920" y="0" width="1366" height="720" />
     </state>
     <state width="1892" height="320" key="GridCell.Tab.0.left/0.0.1920.1032/1920.0.1366.720@0.0.1920.1032" timestamp="1587150694417" />
-    <state width="1338" height="158" key="GridCell.Tab.0.left/0.0.1920.1032/1920.0.1366.720@1920.0.1366.720" timestamp="1587483405730" />
-    <state width="1338" height="158" key="GridCell.Tab.0.right" timestamp="1587483405731">
+    <state width="1338" height="158" key="GridCell.Tab.0.left/0.0.1920.1032/1920.0.1366.720@1920.0.1366.720" timestamp="1587495614418" />
+    <state width="1338" height="158" key="GridCell.Tab.0.right" timestamp="1587495614419">
       <screen x="1920" y="0" width="1366" height="720" />
     </state>
     <state width="1892" height="320" key="GridCell.Tab.0.right/0.0.1920.1032/1920.0.1366.720@0.0.1920.1032" timestamp="1587150694418" />
-    <state width="1338" height="158" key="GridCell.Tab.0.right/0.0.1920.1032/1920.0.1366.720@1920.0.1366.720" timestamp="1587483405731" />
+    <state width="1338" height="158" key="GridCell.Tab.0.right/0.0.1920.1032/1920.0.1366.720@1920.0.1366.720" timestamp="1587495614419" />
     <state width="1892" height="320" key="GridCell.Tab.1.bottom" timestamp="1587150694418">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
